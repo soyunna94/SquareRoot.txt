@@ -22,5 +22,5 @@ result (2.23<x<2.4)
 input: x = 2.236
 output: 4.999
 
-ans x= 2.235
+ans x= 2.236
 
