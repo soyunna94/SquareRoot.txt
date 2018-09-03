@@ -1,0 +1,26 @@
+x*x=5
+end = x
+input: x = 2
+output: 4
+
+input: x=2.2
+output: 4.84
+
+input: x = 2.3
+output: 5.29
+
+result (2.2<x<2.3)
+
+input: x=2.23
+output: 4.9729
+
+input: x=2.24
+output: 5.0176
+
+result (2.23<x<2.4)
+
+input: x = 2.236
+output: 4.999
+
+ans x= 2.235
+
